@@ -1,3 +1,5 @@
+package c;
+
 public class HybridCar {
 
     public static void main(String[] args) {

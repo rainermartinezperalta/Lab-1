@@ -1,3 +1,5 @@
+package c;
+
 public interface GasolineInterface {
     double calcGasMPG();
     void setMilesfromGas(double miles);

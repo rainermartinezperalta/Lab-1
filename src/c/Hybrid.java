@@ -1,3 +1,5 @@
+package c;
+
 public class Hybrid implements ElectricInterface, GasolineInterface {
 
     private double gasMPG;
